@@ -1,7 +1,7 @@
 from time import sleep
 from Window import Window
 from Pile import Pile
-from Board import Board
+from board import Board
 import graphics
 
 class Game:
