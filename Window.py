@@ -1,7 +1,7 @@
 from Pile import Pile
 from datetime import datetime
 import graphics
-from Board import Board
+from board import board
 import os
 
 _PATHS = {
